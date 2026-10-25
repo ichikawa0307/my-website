@@ -4,3 +4,4 @@
 - index.html : 自己紹介ページ
 - style.css : 見た目の設定
 ## 公開 URL
+https://ichikawa0307.github.io/my-website/
